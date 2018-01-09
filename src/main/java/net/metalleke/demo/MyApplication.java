@@ -1,4 +1,4 @@
-package net.metalleke.surf;
+package net.metalleke.demo;
 
 import java.util.HashSet;
 import java.util.Set;

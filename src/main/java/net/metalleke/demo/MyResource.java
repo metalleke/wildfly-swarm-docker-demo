@@ -1,4 +1,4 @@
-package net.metalleke.surf;
+package net.metalleke.demo;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
